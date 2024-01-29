@@ -1,0 +1,9 @@
+{
+    "workbench.editor.autoLockGroups": {
+        "workbench.editorinputs.searchEditorInput": true
+    },
+    "git.confirmSync": true,
+    "git.decorations.enabled": true,
+    "git.enabled": true,
+    "git.enableStatusBarSync": true
+}
