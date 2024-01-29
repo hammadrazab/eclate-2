@@ -1,0 +1,43 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "About Us"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Our Services"
+url = "our-services/"
+weight = 3
+
+[[main]]
+name = "Our Blog"
+url = "blog/"
+weight = 4
+
+# footer menu
+[[footer]]
+name = "About Us"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Our Blog"
+url = "blog/"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 3
+
+[[footer]]
+name = "Our Services"
+url = "our-services/"
+weight = 4
